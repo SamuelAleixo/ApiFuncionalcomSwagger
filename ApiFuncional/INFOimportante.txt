@@ -1,0 +1,4 @@
+﻿https://localhost:7056/swagger
+
+ao executar o projeto é necessario rodar o swagger pra api funcionar efetivamente, 
+além de instalar os componentes dele antes
