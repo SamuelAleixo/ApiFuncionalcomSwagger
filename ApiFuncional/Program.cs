@@ -48,3 +48,4 @@ app.MapPost("ObterProduto/{id}", async (int id, Contexto contexto) =>
 app.UseSwaggerUI();
 
 app.Run();
+

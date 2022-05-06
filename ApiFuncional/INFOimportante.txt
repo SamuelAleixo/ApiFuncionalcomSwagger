@@ -2,3 +2,4 @@
 
 ao executar o projeto é necessario rodar o swagger pra api funcionar efetivamente, 
 além de instalar os componentes dele antes
+só alterar o link do localhost aqui 
